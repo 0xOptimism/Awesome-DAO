@@ -4,6 +4,7 @@ A collection of awesome tools to run a DAO
 * [Awesome DAO](#awesome-dao)
   * [Dev Tools](#dev-tools)
   * [Governance Tools](#governance-tools)
+  * [Organization Tools](#organization-tools)
 
 ## Dev Tools
 
@@ -19,6 +20,12 @@ A collection of awesome tools to run a DAO
 * [Snapshot](https://snapshot.org) - Snapshot is a decentralized voting system. It provides flexibility on how voting power is calculated for a vote.
 * [Tally](https://www.tally.xyz/) - Tally's no-code tool submits DAO proposals for a vote. For example, send funds from the treasury or call a smart contract.
 * [Orca Protocol](https://www.orcaprotocol.org/) - Orca Protocol makes governance accessible by creating tools around a DAO’s most basic primitive: people.
+
+## Organization Tools
+
+* [Clarity](https://www.clarity.so/) - Easily plan projects, track tasks, and stay organized with a single collaborative workspace that combines freeform documents with structured project management.
+* [Notion](https://www.notion.so/) - Notion is a software designed to help members of a company or organization coordinate deadlines, objectives, and assignments for the sake of efficiency and productivity.
+* [Lobby](https://www.lobby.so/) - Knowledge management for Web3 organizations.
 
 
 # Contributing
