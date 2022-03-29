@@ -18,6 +18,8 @@ A collection of awesome tools to run a DAO
 * [Aragon](https://aragon.org/) - Build your Decentralized Autonomous Organization on open-source infrastructure with governance plugins.
 * [Snapshot](https://snapshot.org) - Snapshot is a decentralized voting system. It provides flexibility on how voting power is calculated for a vote.
 * [Tally](https://www.tally.xyz/) - Tally's no-code tool submits DAO proposals for a vote. For example, send funds from the treasury or call a smart contract.
+* [Orca Protocol](https://www.orcaprotocol.org/) - Orca Protocol makes governance accessible by creating tools around a DAO’s most basic primitive: people.
+
 
 # Contributing
 
