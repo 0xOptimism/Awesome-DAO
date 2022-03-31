@@ -5,7 +5,7 @@ A collection of awesome tools to run a DAO
   * [Dev Tools](#dev-tools)
   * [Governance Tools](#governance-tools)
   * [Organization Tools](#organization-tools)
-  * [Treasury Management](#treasury-management)
+  * [Treasury Management](#treasury-management-)
 
 ## Dev Tools 🧙‍♀️
 
