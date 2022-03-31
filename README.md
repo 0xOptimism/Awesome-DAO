@@ -5,6 +5,7 @@ A collection of awesome tools to run a DAO
   * [Dev Tools](#dev-tools)
   * [Governance Tools](#governance-tools)
   * [Organization Tools](#organization-tools)
+  * [Treasury Management](#treasury-management)
 
 ## Dev Tools 🧙‍♀️
 
@@ -26,6 +27,13 @@ A collection of awesome tools to run a DAO
 * [Clarity](https://www.clarity.so/) - Easily plan projects, track tasks, and stay organized with a single collaborative workspace that combines freeform documents with structured project management.
 * [Notion](https://www.notion.so/) - Notion is a software designed to help members of a company or organization coordinate deadlines, objectives, and assignments for the sake of efficiency and productivity.
 * [Lobby](https://www.lobby.so/) - Knowledge management for Web3 organizations.
+
+## Treasury Management 💰
+
+* [Llama](https://llama.xyz/) - Llama enables decentralized communities to allocate their treasuries and assess results.
+* [Gnosis Safe](https://gnosis-safe.io/) - The most trusted platform to manage digital assets on Ethereum.
+
+
 
 
 # Contributing 👩‍💻
