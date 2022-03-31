@@ -2,7 +2,7 @@
 A collection of awesome tools to run a DAO
 
 * [Awesome DAO](#awesome-dao)
-  * [Dev Tools](#dev-tools)
+  * [Dev Tools](#dev-tools-%EF%B8%8F)
   * [Governance Tools](#governance-tools)
   * [Organization Tools](#organization-tools)
   * [Treasury Management](#treasury-management-)
