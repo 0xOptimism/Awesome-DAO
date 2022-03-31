@@ -4,7 +4,7 @@ A collection of awesome tools to run a DAO
 * [Awesome DAO](#awesome-dao)
   * [Dev Tools](#dev-tools-%EF%B8%8F)
   * [Governance Tools](#governance-tools-%EF%B8%8F)
-  * [Organization Tools](#organization-tools-%EF%B8%8F)
+  * [Organization Tools](#-%EF%B8%8F)
   * [Treasury Management](#treasury-management-)
 
 ## Dev Tools 🧙‍♀️
