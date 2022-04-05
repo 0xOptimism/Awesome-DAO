@@ -6,6 +6,7 @@ A collection of awesome tools to run a DAO
   * [Governance Tools](#governance-tools-%EF%B8%8F)
   * [Organization Tools](#organization-tools-)
   * [Treasury Management](#treasury-management-)
+  * [Coordination](#human-coordination)
 
 ## Dev Tools 🧙‍♀️
 
@@ -33,7 +34,9 @@ A collection of awesome tools to run a DAO
 * [Llama](https://llama.xyz/) - Llama enables decentralized communities to allocate their treasuries and assess results.
 * [Gnosis Safe](https://gnosis-safe.io/) - The most trusted platform to manage digital assets on Ethereum.
 
+## Human Coordination
 
+* [discourse](https://www.discourse.org/) - Civilized discussion for your community.
 
 
 # Contributing 👩‍💻
