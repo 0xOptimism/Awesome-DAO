@@ -12,9 +12,10 @@ A collection of awesome tools to run a DAO
 
 * [WAGMI](https://wagmi.sh/) - React Hooks library for Ethereum, built on ethers.js.
 * [HardHat](https://github.com/bower/bower) - Ethereum development environment for professionals.
-* [openzeppelin](https://openzeppelin.com/) - The standard for secure blockchain applications.
-* [radicle](https://radicle.xyz/) - Easily share your code without relying on a third party.
+* [Openzeppelin](https://openzeppelin.com/) - The standard for secure blockchain applications.
+* [Radicle](https://radicle.xyz/) - Easily share your code without relying on a third party.
 * [Fleek](https://fleek.co/) - Fleek makes it easy to build websites and apps on the new open web: permissionless, trustless, censorship resistant, and free of centralized gatekeepers.
+* [Rainbow Kit](https://www.rainbowkit.com/docs/introduction) - RainbowKit is a React library that makes it easy to add wallet connection to your dapp. It's intuitive, responsive and customizable.
 
 ## Governance Tools 🧑‍⚖️
 
