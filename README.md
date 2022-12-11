@@ -7,6 +7,7 @@ A collection of awesome tools to run a DAO
   * [Organization Tools](#organization-tools-)
   * [Treasury Management](#treasury-management-)
   * [Coordination](#human-coordination)
+  * [Education](#education-tools)
 
 ## Dev Tools 🧙‍♀️
 
@@ -39,6 +40,8 @@ A collection of awesome tools to run a DAO
 
 * [discourse](https://www.discourse.org/) - Civilized discussion for your community.
 
+## Education Tools
+* [Alchemy University](https://university.alchemy.com/home) - Alchemy University is the ultimate ecosystem for learning how to build and interact with web3.
 
 # Contributing 👩‍💻
 
