@@ -17,6 +17,7 @@ A collection of awesome tools to run a DAO
 * [Radicle](https://radicle.xyz/) - Easily share your code without relying on a third party.
 * [Fleek](https://fleek.co/) - Fleek makes it easy to build websites and apps on the new open web: permissionless, trustless, censorship resistant, and free of centralized gatekeepers.
 * [Rainbow Kit](https://www.rainbowkit.com/docs/introduction) - RainbowKit is a React library that makes it easy to add wallet connection to your dapp. It's intuitive, responsive and customizable.
+* [Polybase](https://www.polybase.xyz) - Polybase is a database that understands tokens, wallets & ZK. An open-source decentralized alternative to Firebase.
 
 ## Governance Tools 🧑‍⚖️
 
