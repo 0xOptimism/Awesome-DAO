@@ -37,8 +37,6 @@ A collection of awesome tools to run a DAO
 * [DAOhaus](https://daohaus.club/) - No-code platform for launching and managing Moloch-style DAOs with built-in proposal and voting workflows.
 * [Colony](https://colony.io/) - DAO framework with reputation-weighted governance, task management, and budget allocation.
 * [Karma](https://www.karmahq.xyz/) - Data-driven tools to measure contributions and strengthen DAO governance with delegation dashboards and contributor tracking.
-* [Kryon](https://kryon.fit/) - AI-powered governance infrastructure that automates proposal summarization, risk evaluation, and voting with auditable records.
-* [MarketDAO](https://marketdao.dev/) - Market-driven governance with tradable voting tokens, enabling dynamic markets around governance decisions.
 
 ## Organization Tools 🧠
 
