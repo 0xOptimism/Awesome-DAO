@@ -49,7 +49,6 @@ A collection of awesome tools to run a DAO
 
 ## Treasury Management 💰
 
-* [Llama](https://llama.xyz/) - Llama enables decentralized communities to allocate their treasuries and assess results.
 * [Gnosis Safe](https://gnosis-safe.io/) - The most trusted platform to manage digital assets on Ethereum.
 * [Coinshift](https://coinshift.xyz/) - Treasury management with multi-sig support, batch payments, and real-time reporting.
 * [Coincile](https://coincile.io/) - Unified treasury dashboards, multi-sig wallet tracking, grant management, and audit trails.
