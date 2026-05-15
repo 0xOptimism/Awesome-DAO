@@ -47,7 +47,7 @@ A collection of awesome tools to run a DAO
 
 ## Treasury Management 💰
 
-* [Gnosis Safe](https://gnosis-safe.io/) - The most trusted platform to manage digital assets on Ethereum.
+* [Safe](https://safe.global/) - The most trusted platform to manage digital assets on Ethereum.
 * [Coinshift](https://coinshift.xyz/) - Treasury management with multi-sig support, batch payments, and real-time reporting.
 * [Coincile](https://coincile.io/) - Unified treasury dashboards, multi-sig wallet tracking, grant management, and audit trails.
 * [Superfluid](https://www.superfluid.finance/) - Programmable money streams for real-time salary, subscriptions, and continuous token distributions.
